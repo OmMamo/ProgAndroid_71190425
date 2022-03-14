@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="24dp"
-    android:background="@color/material_dynamic_secondary80"
+    android:background="@color/teal_200"
     tools:context=".MainActivity">
 
 
@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="36sp"
-        android:text="BARANG OKE" />
+        android:text="@string/barang_oke" />
 
     <EditText
         android:id="@+id/editTextTextPersonName3"
@@ -25,9 +25,11 @@
         android:inputType="textEmailAddress"
         android:minHeight="48dp"
         android:padding="10dp"
+        android:textColor="@color/black"
         android:layout_marginTop="10dp"
-        android:background="@color/cardview_light_background"
-        android:hint="Username" />
+        android:background="@color/white"
+        android:hint="@string/username"
+        android:textColorHint="#5C5C5C"/>
 
 
     <EditText
@@ -38,9 +40,11 @@
         android:inputType="textPassword"
         android:minHeight="48dp"
         android:padding="10dp"
+        android:textColor="@color/black"
         android:layout_marginTop="10dp"
-        android:background="@color/cardview_light_background"
-        android:hint="Password"/>
+        android:background="@color/white"
+        android:hint="@string/password"
+        android:textColorHint="#5C5C5C"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -51,9 +55,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:layout_marginRight="15dp"
+            android:layout_marginEnd="15dp"
             android:layout_marginTop="20dp"
-            android:text="Login" />
+            android:text="@string/login" />
 
         <Button
             android:id="@+id/button6"
@@ -61,8 +65,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_marginTop="20dp"
-            android:text="Register" />
+            android:text="@string/register" />
     </LinearLayout>
 
 
 </LinearLayout>
+
