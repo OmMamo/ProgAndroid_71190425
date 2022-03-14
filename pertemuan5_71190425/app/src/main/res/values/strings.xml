@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pertemuan5_71190425</string>
+    <string name="barang_oke">BARANG OKE</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="textview">Home</string>
+</resources>
