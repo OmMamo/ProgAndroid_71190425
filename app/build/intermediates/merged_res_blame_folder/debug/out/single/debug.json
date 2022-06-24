@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_gideon_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/gideon_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_diwan.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/diwan.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_gideon_round.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/gideon_round.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_primo.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/primo.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_gideon_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/gideon_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_gideon_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/gideon_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_gideon_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/gideon_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_diwan_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/diwan_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_diwan.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/diwan.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_primo_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/primo_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_diwan_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/diwan_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_diwan_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/diwan_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_diwan.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/diwan.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_gideon_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/gideon_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_diwan_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/diwan_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_gideon_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/gideon_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_primo.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/primo.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/drawable_gideon_background.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/drawable/gideon_background.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_primo_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/primo_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_gideon.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/gideon.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_diwan.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/diwan.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_primo_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/primo_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_diwan_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/diwan_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_diwan.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/diwan.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_primo_round.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/primo_round.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_primo_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/primo_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_diwan_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/diwan_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_primo_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/primo_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_gideon.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/gideon.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_diwan_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/diwan_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_gideon_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/gideon_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_gideon.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/gideon.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_primo.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/primo.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_diwan_round.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/diwan_round.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_primo_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/primo_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_primo.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/primo.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_diwan.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/diwan.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/drawable_primo_background.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/drawable/primo_background.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_diwan_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/diwan_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/layout_item_contact_detail.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/layout/item_contact_detail.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_diwan_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/diwan_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/drawable_diwan_background.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/drawable/diwan_background.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_gideon_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/gideon_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_primo_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/primo_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_diwan_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/diwan_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-anydpi-v26_primo.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-anydpi-v26/primo.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-hdpi_primo.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-hdpi/primo.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-pngs-21:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_gideon_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/gideon_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_gideon.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/gideon.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-mdpi_gideon.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-mdpi/gideon.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_gideon_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/gideon_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_primo_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/primo_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxhdpi_gideon.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxhdpi/gideon.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/layout_item_contact.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xhdpi_primo_foreground.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xhdpi/primo_foreground.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_primo_round.png.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/primo_round.png"
+    },
+    {
+        "merged": "com.example.pertemuan7_71190425.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pertemuan7_71190425.app-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
